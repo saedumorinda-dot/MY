@@ -1,0 +1,843 @@
+<!DOCTYPE html>
+<!-- saved from url=(0048)file:///C:/Users/user/Desktop/kulwinder/sa.html# -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <title>Index - MySchool Bootstrap Template</title>
+  <meta name="description" content="">
+  <meta name="keywords" content="">
+
+  <!-- Favicons -->
+  <link href="file:///C:/Users/user/Desktop/kulwinder/assets/img/favicon.png" rel="icon">
+  <link href="file:///C:/Users/user/Desktop/kulwinder/assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Fonts -->
+  <link href="https://fonts.googleapis.com/" rel="preconnect">
+  <link href="https://fonts.gstatic.com/" rel="preconnect" crossorigin="">
+  <link href="./MY_files/css2" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="./MY_files/bootstrap.min.css" rel="stylesheet">
+  <link href="./MY_files/bootstrap-grid.css" rel="stylesheet">
+  <link href="./MY_files/bootstrap-grid.css.map" rel="stylesheet">
+  <link href="file:///C:/Users/user/Desktop/kulwinder/assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="./MY_files/all.min.css" integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw==" crossorigin="anonymous" referrerpolicy="no-referrer">
+
+  <!-- Main CSS File -->
+  <link href="./MY_files/main.css" rel="stylesheet">
+
+  <!-- =======================================================
+  * Template Name: MySchool
+  * Template URL: https://bootstrapmade.com/myschool-bootstrap-school-template/
+  * Updated: Jul 28 2025 with Bootstrap v5.3.7
+  * Author: BootstrapMade.com
+  * License: https://bootstrapmade.com/license/
+  ======================================================== -->
+</head>
+
+<body class="index-page">
+
+  <header id="header" class="header d-flex align-items-center sticky-top">
+    <div class="container-fluid container-xl position-relative d-flex align-items-center justify-content-between">
+
+      <a href="file:///C:/Users/user/Desktop/kulwinder/index.html" class="logo d-flex align-items-center">
+        <!-- Uncomment the line below if you also wish to use an image logo -->
+        <!-- <img src="assets/img/logo.webp" alt=""> -->
+        <i class="bi bi-buildings"></i>
+        <!-- <h1 class="sitename"><img src="./img/download.png" alt="logo1-png" width="auto"> </h1> -->
+      </a>
+
+      <nav id="navmenu" class="navmenu">
+        <ul>
+          <li><a href="file:///C:/Users/user/Desktop/kulwinder/index.html" class="active">Home</a></li>
+          <li class="dropdown"><a href="file:///C:/Users/user/Desktop/kulwinder/about.html"><span>About</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
+            <ul>
+              <li><a href="file:///C:/Users/user/Desktop/kulwinder/about.html">About Us</a></li>
+              <li><a href="file:///C:/Users/user/Desktop/kulwinder/admissions.html">Admissions</a></li>
+              <li><a href="file:///C:/Users/user/Desktop/kulwinder/academics.html">Academics</a></li>
+              <li><a href="file:///C:/Users/user/Desktop/kulwinder/faculty-staff.html">Faculty &amp; Staff</a></li>
+              <li><a href="file:///C:/Users/user/Desktop/kulwinder/campus-facilities.html">Campus &amp; Facilities</a></li>
+            </ul>
+          </li>
+
+          <li><a href="file:///C:/Users/user/Desktop/kulwinder/news.html">News</a></li>
+          <li><a href="file:///C:/Users/user/Desktop/kulwinder/events.html">Events</a></li>
+   
+          <li class="dropdown"><a href="file:///C:/Users/user/Desktop/kulwinder/sa.html#"><span>More Pages</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
+            <ul>
+              <li><a href="file:///C:/Users/user/Desktop/kulwinder/news-details.html">News Details</a></li>
+              <li><a href="file:///C:/Users/user/Desktop/kulwinder/event-details.html">Event Details</a></li>
+              <li><a href="file:///C:/Users/user/Desktop/kulwinder/privacy.html">Privacy</a></li>
+              <li><a href="file:///C:/Users/user/Desktop/kulwinder/terms-of-service.html">Terms of Service</a></li>
+     
+           
+            </ul>
+          </li>
+
+          <li class="dropdown"><a href="file:///C:/Users/user/Desktop/kulwinder/sa.html#"><span>Dropdown</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
+            <ul>
+              <li><a href="file:///C:/Users/user/Desktop/kulwinder/sa.html#">Dropdown 1</a></li>
+              <li class="dropdown"><a href="file:///C:/Users/user/Desktop/kulwinder/sa.html#"><span>Deep Dropdown</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
+                <ul>
+                  <li><a href="file:///C:/Users/user/Desktop/kulwinder/sa.html#">Deep Dropdown 1</a></li>
+                  <li><a href="file:///C:/Users/user/Desktop/kulwinder/sa.html#">Deep Dropdown 2</a></li>
+                  <li><a href="file:///C:/Users/user/Desktop/kulwinder/sa.html#">Deep Dropdown 3</a></li>
+                  <li><a href="file:///C:/Users/user/Desktop/kulwinder/sa.html#">Deep Dropdown 4</a></li>
+                  <li><a href="file:///C:/Users/user/Desktop/kulwinder/sa.html#">Deep Dropdown 5</a></li>
+                </ul>
+              </li>
+              <li><a href="file:///C:/Users/user/Desktop/kulwinder/sa.html#">Dropdown 2</a></li>
+              <li><a href="file:///C:/Users/user/Desktop/kulwinder/sa.html#">Dropdown 3</a></li>
+              <li><a href="file:///C:/Users/user/Desktop/kulwinder/sa.html#">Dropdown 4</a></li>
+            </ul>
+          </li>
+          <li><a href="file:///C:/Users/user/Desktop/kulwinder/contact.html">Contact</a></li>
+        </ul>
+        <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
+      </nav>
+
+    </div>
+  </header>
+
+  <main class="main">
+
+    <!-- Hero Section -->
+    <section id="hero" class="hero section">
+
+      <div class="hero-container">
+        <div class="hero-content">
+          <h1>AVON ELECTRIC SCOOTER  MORINDA SHOWROOM</h1>
+          <p>At Avon Electric Scooters Morinda, we bring you the perfect combination of style, performance, and savings. Our wide range of eco-friendly electric scooters is designed to give you a smooth and cost-effective ride every day.  </p>
+          <div class="cta-buttons">
+            <a href="file:///C:/Users/user/Desktop/kulwinder/sa.html#" class="btn-apply">Apply Now</a>
+            <a href="file:///C:/Users/user/Desktop/kulwinder/sa.html#" class="btn-tour">Campus Tour</a>
+          </div>
+          <div class="announcement">
+            <div class="announcement-badge">where smart rides begin!</div>
+            <p>Visit us today and experience the future of green mobility with Avon Morinda</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="highlights-container container">
+        <div class="row gy-4">
+          <div class="col-md-4">
+            <div class="highlight-item">
+              <div class="icon" style="padding:120px 0px!important;">
+                <img src="./MY_files/avone-star.png" style="min-width: 200px;">
+             <!-- <i class="fa-solid fa-face-smile"></i> -->
+              </div>
+              <h3>Avon E-Star DX – ₹65,000</h3>
+              <p>Ride confidently without worrying about rising fuel costs!</p>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="highlight-item">
+               <div class="icon" style="padding:120px 0px!important;">
+                <img src="./MY_files/red.png" style="min-width: 180px;">
+              </div>
+              <h3>Avon E-Zap DX – ₹60,000</h3>
+              <p>Get expert guidance for every model and make your ride hassle-free!</p>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="highlight-item">
+              <div class="icon" style="padding:120px 0px!important;">
+           <!-- <i class="fa-solid fa-coins"></i> -->
+              <img src="./MY_files/WHITE-SCOOTER.png" style="min-width: 200px;">
+              </div>
+              <h3>Avon E-Mate 306 – ₹75,000</h3>
+              <p>Affordable, eco-friendly, and stylish!</p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="event-banner">
+        <div class="container">
+          <div class="row align-items-center">
+            <div class="col-md-2">
+              <div class="event-date">
+                <!-- <span class="month">OCT</span> -->
+                <span class="day">Avon E-Star</span>
+              </div>
+            </div>
+            <div class="col-md-8">
+              <h3>Avon E-Star – Power &amp; Performance</h3>
+              <p>“Powerful, fast, and safe — ride with confidence every day.”</p>
+            </div>
+            <div class="col-md-2">
+              <a href="file:///C:/Users/user/Desktop/kulwinder/sa.html#" class="btn-register">BUY NOW</a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </section><!-- /Hero Section -->
+    <!-- About Section -->
+    <section id="about" class="about section">
+
+      <div class="container">
+
+        <div class="row gy-5">
+
+          <div class="col-lg-6">
+            <div class="content">
+              <h3>Wide range of Avon electric scooter models for city</h3>
+              <p>At Avon Morinda, we focus on reliability, performance, and customer satisfaction. Our mission is to make electric mobility accessible, safe, and enjoyable for all riders in and around Morinda.</p>
+
+              <div class="stats-row">
+                <div class="stat-item">
+                  <div class="number">92%</div>
+                  <div class="label">Overall Showroom Experience</div>
+                </div>
+                <div class="stat-item">
+                  <div class="number">80%</div>
+                  <div class="label">Exchange &amp; Offers</div>
+                </div>
+                <div class="stat-item">
+                  <div class="number">85%</div>
+                  <div class="label">Finance &amp; EMI Options</div>
+                </div>
+              </div>
+
+              <div class="mission-statement">
+                <p><em>“To provide eco-friendly, stylish, and reliable electric mobility solutions that make daily commuting safe, affordable, and enjoyable for everyone in Morinda and nearby areas.”</em></p>
+              </div>
+
+              <a href="file:///C:/Users/user/Desktop/kulwinder/about.html" class="btn-learn-more">
+                Learn More About Us
+                <i class="bi bi-arrow-right"></i>
+              </a>
+            </div>
+          </div>
+
+          <div class="col-lg-6">
+            <div class="image-wrapper">
+              <img src="./MY_files/orignal-scooter-img.webp" alt="Campus Overview" class="img-fluid">
+              <div class="experience-badge">
+                <div class="years">70</div>
+                <div class="text">Years of Experience company</div>
+              </div>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+
+    </section><!-- /About Section -->
+
+    <!-- Featured Programs Section -->
+    <section id="featured-programs" class="featured-programs section">
+
+      <!-- Section Title -->
+      <div class="container section-title">
+        <h2>
+          Have an E-Journey Ahead
+        </h2>
+        <p>E-Rikshaws travel with low costs and no footprint</p>
+      </div><!-- End Section Title -->
+
+      <div class="container">
+
+        <div class="featured-programs-wrapper">
+
+          <div class="programs-overview">
+            <div class="overview-content">
+              <h2>Drive Clean, Earn More with Avon E-Riksha</h2>
+              <p>Step into the future of urban transport with Avon E-Riksha — eco-friendly, cost-effective, and reliable. Ideal for daily commuting and commercial use, it combines efficiency with comfort.</p>
+              <div class="overview-stats">
+                <div class="stat-item">
+                  <span class="stat-number">95%</span>
+                  <span class="stat-label">Battery Life</span>
+                </div>
+                <div class="stat-item">
+                  <span class="stat-number">88%</span>
+                  <span class="stat-label">Load Carrying Capacity</span>
+                </div>
+                <div class="stat-item">
+                  <span class="stat-number">91%</span>
+                  <span class="stat-label">Overall Performance</span>
+                </div>
+              </div>
+            </div>
+            <div class="overview-image">
+              <img src="./MY_files/best2.png" alt="Education" class="img-fluid">
+            </div>
+          </div>
+
+          <div class="programs-showcase">
+
+            <div class="program-card featured-program">
+              <div class="card-image">
+                <img src="./MY_files/blue-riksha.png" alt="Program" class="img-fluid">
+                <div class="program-badge">
+                  <i class="bi bi-star-fill"></i>
+                  <span>Top Rated</span>
+                </div>
+              </div>
+              <div class="card-content">
+             
+                <h3>Avon E-Loader Cargo</h3>
+                <p>Price: ₹1,75,000*</p>
+                <div class="program-meta">
+                </div>
+                <div class="card-footer">
+                  <a href="file:///C:/Users/user/Desktop/kulwinder/sa.html#" class="learn-more">Learn More</a>
+                  <div class="enrollment">
+                    <i class="bi bi-people"></i>
+                    <span>320 enrolled</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="programs-list">
+
+              <div class="program-item">
+                <div class="item-visual">
+                  <img src="./MY_files/red-riksha.png" alt="Program" class="img-fluid">
+                </div>
+                <div class="item-details">
+                  <!-- <div class="item-category">Business</div> -->
+                  <h4>E rickshaw ms</h4>
+                  <p>Price: ₹1,45,000*</p>
+                  <div class="item-info">
+                    <!-- <span>3 Years</span>
+                    <span>Master's</span> -->
+                  </div>
+                </div>
+                <div class="item-action">
+                  <i class="bi bi-arrow-right-circle"></i>
+                </div>
+              </div>
+
+              <div class="program-item">
+                <div class="item-visual">
+                  <img src="./MY_files/BLUE-RISKHA2.PNG" alt="Program" class="img-fluid">
+                </div>
+                <div class="item-details">
+                  <!-- <div class="item-category">Avon E-Loader</div> -->
+                  <h4>Avon E-Loader</h4>
+                  <p>Price: ₹1,45,000*</p>
+                  <div class="item-info">
+                    <!-- <span>5 Years</span>
+                    <span>Bachelor's</span> -->
+                  </div>
+                </div>
+                <div class="item-action">
+                  <i class="bi bi-arrow-right-circle"></i>
+                </div>
+              </div>
+
+           
+
+              <div class="program-item">
+                <div class="item-visual">
+                  <img src="./MY_files/eriksha2.png" alt="Program" class="img-fluid">
+                </div>
+                <div class="item-details">
+                  <!-- <div class="item-category">Science</div> -->
+                  <h4>Avon E-Rickshaw SS</h4>
+                  <p> Price: ₹150000*</p>
+                  <div class="item-info">
+                    <!-- <span>4 Years</span>
+                    <span>Bachelor's</span> -->
+                  </div>
+                </div>
+                <div class="item-action">
+                  <i class="bi bi-arrow-right-circle"></i>
+                </div>
+              </div>
+
+            </div>
+
+          </div>
+
+        </div>
+
+      </div>
+
+    </section><!-- /Featured Programs Section -->
+
+    
+
+    <!-- Testimonials Section -->
+    <section id="testimonials" class="testimonials section light-background">
+
+      <!-- Section Title -->
+      <div class="container section-title">
+        <h2>Testimonials</h2>
+        <p>Avon Electric Scooty Showroom – Morinda</p>
+      </div><!-- End Section Title -->
+
+      <div class="container">
+
+        <div class="testimonials-slider swiper init-swiper">
+          <script type="application/json" class="swiper-config">
+            {
+              "slidesPerView": 1,
+              "loop": true,
+              "speed": 600,
+              "autoplay": {
+                "delay": 5000
+              },
+              "navigation": {
+                "nextEl": ".swiper-button-next",
+                "prevEl": ".swiper-button-prev"
+              }
+            }
+          </script>
+
+          <div class="swiper-wrapper">
+
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <div class="row">
+                  <div class="col-lg-6">
+                    <h2>Customer Satisfaction</h2>
+                    <p>
+                      "I bought my Avon E-Star DX from the Morinda showroom, and I’m amazed by the smooth ride and low maintenance. Highly recommended!" – Rohit S.
+                    </p>
+                    <p>
+                      Our customers love the reliability and performance of Avon Electric Scooters. Daily commuters share how their rides have become smoother,  eco-friendly, making Avon their trusted choice in Morinda
+                    </p>
+                    
+                  </div>
+                  <div class="col-lg-6 d-none d-lg-block">
+                    <div class="featured-img-wrapper">
+                      <img src="./MY_files/CUSTMOR1.PNG" class="featured-img" alt="">
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div><!-- End Testimonial Item -->
+
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <div class="row">
+                  <div class="col-lg-6">
+                    <h2>Eco-Friendly Experience</h2>
+                    <p>
+                     "The Avon E-Mate 306 is perfect for my daily commute. Zero fuel costs and great performance make it my favorite ride!" – Simran K.
+                    </p>
+                    <p>
+                      From first-time buyers to seasoned riders, everyone appreciates the excellent guidance and personalized service at Avon Morinda. Our team ensures customers choose the perfect model to suit their lifestyle and needs.
+                    </p>
+                   
+                  </div>
+                  <div class="col-lg-6 d-none d-lg-block">
+                    <div class="featured-img-wrapper">
+                      <img src="./MY_files/SALMAN.PNG" class="featured-img" alt="">
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div><!-- End Testimonial Item -->
+
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <div class="row">
+                  <div class="col-lg-6">
+                    <h2>
+                     Professional Service
+                    </h2>
+                    <p>
+                      "Excellent service and guidance at Avon Morinda. The staff helped me choose the right model and explained all finance options." – Aman P.
+                    </p>
+                    <p>
+                     Business owners and commercial users highlight the durability and load-carrying capacity of Avon E-Rickshaws and E-Loaders. With low maintenance and high efficiency, Avon vehicles have transformed their daily operations.
+                    </p>
+                  
+                  </div>
+                  <div class="col-lg-6 d-none d-lg-block">
+                    <div class="featured-img-wrapper">
+                      <img src="./MY_files/ALL-CUSTOMERS.PNG" class="featured-img" alt="">
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div><!-- End Testimonial Item -->
+
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <div class="row">
+                  <div class="col-lg-6">
+                    <h2>Commercial Use</h2>
+                    <p>
+                   "Our business runs smoothly with the Avon E-Rickshaw MS. Strong, reliable, and cost-effective — truly a game-changer!" – Harpreet L.
+                    </p>
+                    <p>
+                     At Avon Morinda, we take pride in offering stylish, and reliable mobility solutions. Our customers consistently recommend us for quality scooters, professional service, and a seamless buying experience.
+                    </p>
+                   
+                  </div>
+                  <div class="col-lg-6 d-none d-lg-block">
+                    <div class="featured-img-wrapper">
+                      <img src="./MY_files/riskha-customers.png" class="featured-img" alt="">
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div><!-- End Testimonial Item -->
+
+          </div>
+
+          <div class="swiper-navigation w-100 d-flex align-items-center justify-content-center">
+            <div class="swiper-button-prev"></div>
+            <div class="swiper-button-next"></div>
+          </div>
+
+        </div>
+
+      </div>
+
+    </section><!-- /Testimonials Section -->
+
+    <!-- Call To Action Section -->
+    <section id="call-to-action" class="call-to-action section light-background">
+
+      <div class="container">
+
+        <div class="row align-items-center">
+
+          <div class="col-lg-5">
+            <div class="content-wrapper">
+              <div class="badge">
+                <i class="bi bi-mortarboard-fill"></i>
+                <span>Premium Education</span>
+              </div>
+
+              <h2>Elevate Your Learning Journey with World-Class Education</h2>
+
+              <p>Discover unlimited potential through our carefully curated learning experiences designed by industry leaders and educational experts.</p>
+
+              <div class="highlight-stats">
+                <div class="stat-group">
+                  <div class="stat-item">
+                    <span class="number purecounter" data-purecounter-start="0" data-purecounter-end="25000" data-purecounter-duration="2">0</span>
+                    <span class="label">Active Learners</span>
+                  </div>
+                  <div class="stat-item">
+                    <span class="number purecounter" data-purecounter-start="0" data-purecounter-end="200" data-purecounter-duration="2">0</span>
+                    <span class="label">Expert Courses</span>
+                  </div>
+                </div>
+              </div>
+
+              <div class="action-buttons">
+                <a href="file:///C:/Users/user/Desktop/kulwinder/programs.html" class="btn-primary">Explore Programs</a>
+                <a href="file:///C:/Users/user/Desktop/kulwinder/trial.html" class="btn-secondary">
+                  <span>Start Free Trial</span>
+                  <i class="bi bi-arrow-right"></i>
+                </a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-7">
+            <div class="visual-section">
+              <div class="main-image-container">
+                <img src="file:///C:/Users/user/Desktop/kulwinder/assets/img/education/students-1.webp" alt="Students Learning" class="main-image">
+                <div class="overlay-gradient"></div>
+              </div>
+
+              <div class="feature-cards">
+                <div class="feature-card achievement">
+                  <div class="icon">
+                    <i class="bi bi-trophy-fill"></i>
+                  </div>
+                  <div class="content">
+                    <h4>Certified Excellence</h4>
+                    <p>Industry-recognized certificates</p>
+                  </div>
+                </div>
+
+                <div class="feature-card flexibility">
+                  <div class="icon">
+                    <i class="bi bi-clock-fill"></i>
+                  </div>
+                  <div class="content">
+                    <h4>Learn at Your Pace</h4>
+                    <p>24/7 access to all materials</p>
+                  </div>
+                </div>
+
+                <div class="feature-card community">
+                  <div class="icon">
+                    <i class="bi bi-people-fill"></i>
+                  </div>
+                  <div class="content">
+                    <h4>Global Community</h4>
+                    <p>Connect with learners worldwide</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+
+    </section><!-- /Call To Action Section -->
+
+    <!-- Recent News Section -->
+    <section id="recent-news" class="recent-news section">
+
+      <!-- Section Title -->
+      <div class="container section-title">
+        <h2>Recent News</h2>
+        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+      </div><!-- End Section Title -->
+
+      <div class="container">
+
+        <div class="row gy-5">
+
+          <div class="col-xl-3 col-md-6">
+            <div class="post-box">
+              <div class="post-img"><img src="file:///C:/Users/user/Desktop/kulwinder/assets/img/blog/blog-post-1.webp" class="img-fluid" alt=""></div>
+              <div class="meta">
+                <span class="post-date">Tue, December 12</span>
+                <span class="post-author"> / Julia Parker</span>
+              </div>
+              <h3 class="post-title">Eum ad dolor et. Autem aut fugiat debitis</h3>
+              <p>Illum voluptas ab enim placeat. Adipisci enim velit nulla. Vel omnis laudantium. Asperiores eum ipsa est officiis. Modi qui magni est...</p>
+              <a href="file:///C:/Users/user/Desktop/kulwinder/blog-details.html" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
+            </div>
+          </div>
+
+          <div class="col-xl-3 col-md-6">
+            <div class="post-box">
+              <div class="post-img"><img src="file:///C:/Users/user/Desktop/kulwinder/assets/img/blog/blog-post-2.webp" class="img-fluid" alt=""></div>
+              <div class="meta">
+                <span class="post-date">Fri, September 05</span>
+                <span class="post-author"> / Mario Douglas</span>
+              </div>
+              <h3 class="post-title">Et repellendus molestiae qui est sed omnis</h3>
+              <p>Voluptatem nesciunt omnis libero autem tempora enim ut ipsam id. Odit quia ab eum assumenda. Quisquam omnis doloribus...</p>
+              <a href="file:///C:/Users/user/Desktop/kulwinder/blog-details.html" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
+            </div>
+          </div>
+
+          <div class="col-xl-3 col-md-6">
+            <div class="post-box">
+              <div class="post-img"><img src="file:///C:/Users/user/Desktop/kulwinder/assets/img/blog/blog-post-3.webp" class="img-fluid" alt=""></div>
+              <div class="meta">
+                <span class="post-date">Tue, July 27</span>
+                <span class="post-author"> / Lisa Hunter</span>
+              </div>
+              <h3 class="post-title">Quia assumenda est et veritati</h3>
+              <p>Quia nam eaque omnis explicabo similique eum quaerat similique laboriosam. Quis omnis repellat sed quae consectetur magnam...</p>
+              <a href="file:///C:/Users/user/Desktop/kulwinder/blog-details.html" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
+            </div>
+          </div>
+
+          <div class="col-xl-3 col-md-6">
+            <div class="post-box">
+              <div class="post-img"><img src="file:///C:/Users/user/Desktop/kulwinder/assets/img/blog/blog-post-4.webp" class="img-fluid" alt=""></div>
+              <div class="meta">
+                <span class="post-date">Tue, Sep 16</span>
+                <span class="post-author"> / Mario Douglas</span>
+              </div>
+              <h3 class="post-title">Pariatur quia facilis similique deleniti</h3>
+              <p>Et consequatur eveniet nam voluptas commodi cumque ea est ex. Aut quis omnis sint ipsum earum quia eligendi...</p>
+              <a href="file:///C:/Users/user/Desktop/kulwinder/blog-details.html" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+
+    </section><!-- /Recent News Section -->
+
+
+  </main>
+
+  <footer id="footer" class="footer-16 footer position-relative dark-background">
+
+    <div class="container">
+
+      <div class="footer-main">
+        <div class="row align-items-start">
+
+          <div class="col-lg-5">
+            <div class="brand-section">
+              <a href="file:///C:/Users/user/Desktop/kulwinder/index.html" class="logo d-flex align-items-center mb-4">
+                <span class="sitename"><img></span>
+              </a>
+              <p class="brand-description">Crafting exceptional digital experiences through thoughtful design and innovative solutions that elevate your brand presence.</p>
+
+              <div class="contact-info mt-5">
+                <div class="contact-item">
+                  <i class="bi bi-geo-alt"></i>
+                  <span>123 Creative Boulevard, Design District, NY 10012</span>
+                </div>
+                <div class="contact-item">
+                  <i class="bi bi-telephone"></i>
+                  <span>+1 (555) 987-6543</span>
+                </div>
+                <div class="contact-item">
+                  <i class="bi bi-envelope"></i>
+                  <span>hello@designstudio.com</span>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-7">
+            <div class="footer-nav-wrapper">
+              <div class="row">
+
+                <div class="col-6 col-lg-3">
+                  <div class="nav-column">
+                    <h6>Studio</h6>
+                    <nav class="footer-nav">
+                      <a href="file:///C:/Users/user/Desktop/kulwinder/sa.html#">Our Story</a>
+                      <a href="file:///C:/Users/user/Desktop/kulwinder/sa.html#">Design Process</a>
+                      <a href="file:///C:/Users/user/Desktop/kulwinder/sa.html#">Portfolio</a>
+                      <a href="file:///C:/Users/user/Desktop/kulwinder/sa.html#">Case Studies</a>
+                      <a href="file:///C:/Users/user/Desktop/kulwinder/sa.html#">Awards</a>
+                    </nav>
+                  </div>
+                </div>
+
+                <div class="col-6 col-lg-3">
+                  <div class="nav-column">
+                    <h6>Services</h6>
+                    <nav class="footer-nav">
+                      <a href="file:///C:/Users/user/Desktop/kulwinder/sa.html#">Brand Identity</a>
+                      <a href="file:///C:/Users/user/Desktop/kulwinder/sa.html#">Web Design</a>
+                      <a href="file:///C:/Users/user/Desktop/kulwinder/sa.html#">Mobile Apps</a>
+                      <a href="file:///C:/Users/user/Desktop/kulwinder/sa.html#">Digital Strategy</a>
+                      <a href="file:///C:/Users/user/Desktop/kulwinder/sa.html#">Consultation</a>
+                    </nav>
+                  </div>
+                </div>
+
+                <div class="col-6 col-lg-3">
+                  <div class="nav-column">
+                    <h6>Resources</h6>
+                    <nav class="footer-nav">
+                      <a href="file:///C:/Users/user/Desktop/kulwinder/sa.html#">Design Blog</a>
+                      <a href="file:///C:/Users/user/Desktop/kulwinder/sa.html#">Style Guide</a>
+                      <a href="file:///C:/Users/user/Desktop/kulwinder/sa.html#">Free Assets</a>
+                      <a href="file:///C:/Users/user/Desktop/kulwinder/sa.html#">Tutorials</a>
+                      <a href="file:///C:/Users/user/Desktop/kulwinder/sa.html#">Inspiration</a>
+                    </nav>
+                  </div>
+                </div>
+
+                <div class="col-6 col-lg-3">
+                  <div class="nav-column">
+                    <h6>Connect</h6>
+                    <nav class="footer-nav">
+                      <a href="file:///C:/Users/user/Desktop/kulwinder/sa.html#">Start Project</a>
+                      <a href="file:///C:/Users/user/Desktop/kulwinder/sa.html#">Schedule Call</a>
+                      <a href="file:///C:/Users/user/Desktop/kulwinder/sa.html#">Join Newsletter</a>
+                      <a href="file:///C:/Users/user/Desktop/kulwinder/sa.html#">Follow Updates</a>
+                      <a href="file:///C:/Users/user/Desktop/kulwinder/sa.html#">Partnership</a>
+                    </nav>
+                  </div>
+                </div>
+
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+
+      <div class="footer-social">
+        <div class="row align-items-center">
+
+          <div class="col-lg-6">
+            <div class="newsletter-section">
+              <h5>Stay Inspired</h5>
+              <p>Subscribe to receive design insights and creative inspiration delivered monthly.</p>
+            </div>
+          </div>
+
+          <div class="col-lg-6">
+            <div class="social-section">
+              <div class="social-links">
+                <a href="file:///C:/Users/user/Desktop/kulwinder/sa.html#" aria-label="Dribbble" class="social-link">
+                  <i class="bi bi-dribbble"></i>
+                  <span>Dribbble</span>
+                </a>
+                <a href="file:///C:/Users/user/Desktop/kulwinder/sa.html#" aria-label="Behance" class="social-link">
+                  <i class="bi bi-behance"></i>
+                  <span>Behance</span>
+                </a>
+                <a href="file:///C:/Users/user/Desktop/kulwinder/sa.html#" aria-label="Instagram" class="social-link">
+                  <i class="bi bi-instagram"></i>
+                  <span>Instagram</span>
+                </a>
+                <a href="file:///C:/Users/user/Desktop/kulwinder/sa.html#" aria-label="LinkedIn" class="social-link">
+                  <i class="bi bi-linkedin"></i>
+                  <span>LinkedIn</span>
+                </a>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+
+    </div>
+
+    <div class="footer-bottom">
+      <div class="container">
+        <div class="bottom-content">
+          <div class="row align-items-center">
+
+            <div class="col-lg-6">
+              <div class="copyright">
+                <p>© <span class="sitename">MyWebsite</span>. All rights reserved.</p>
+              </div>
+            </div>
+
+            <div class="col-lg-6">
+              <div class="legal-links">
+                <a href="file:///C:/Users/user/Desktop/kulwinder/sa.html#">Privacy Policy</a>
+                <a href="file:///C:/Users/user/Desktop/kulwinder/sa.html#">Terms of Service</a>
+                <a href="file:///C:/Users/user/Desktop/kulwinder/sa.html#">Cookie Policy</a>
+                <div class="credits">
+                  <!-- All the links in the footer should remain intact. -->
+                  <!-- You can delete the links only if you've purchased the pro version. -->
+                  <!-- Licensing information: https://bootstrapmade.com/license/ -->
+                  <!-- Purchase the pro version with working PHP/AJAX contact form: [buy-url] -->
+                  Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+                </div>
+              </div>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </footer>
+
+  <!-- Scroll Top -->
+  <a href="file:///C:/Users/user/Desktop/kulwinder/sa.html#" id="scroll-top" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+  <!-- Preloader
+  <div id="preloader"></div> -->
+
+  <!-- Vendor JS Files -->
+  <script src="./MY_files/bootstrap.bundle.min.js"></script>
+  <script src="file:///C:/Users/user/Desktop/kulwinder/js/php-email-form/validate.js"></script>
+  <script src="./MY_files/swiper-bundle.min.js"></script>
+  <script src="file:///C:/Users/user/Desktop/kulwinder/js/purecounter_vanilla.js"></script>
+  <script src="./MY_files/glightbox.min.js"></script>
+
+  <!-- Main JS File -->
+  <script src="./MY_files/main.js"></script>
+
+
+
+</body></html>
